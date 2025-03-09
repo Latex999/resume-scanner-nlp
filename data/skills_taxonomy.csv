@@ -1,0 +1,170 @@
+skill,category,synonyms,level
+Python,Programming,"python3, py, python programming",Advanced
+JavaScript,Programming,"js, javascript programming, es6, ecmascript",Advanced
+Java,Programming,"java programming, j2ee, jdk",Advanced
+C++,Programming,"cpp, c plus plus, c++11, c++14, c++17",Advanced
+C#,Programming,"csharp, c sharp, .net programming",Advanced
+SQL,Database,"structured query language, sql queries, sql database",Advanced
+HTML,Frontend,"html5, hypertext markup language, html coding",Intermediate
+CSS,Frontend,"css3, cascading style sheets, stylesheet",Intermediate
+React,Frontend,"reactjs, react.js, react library, react framework",Advanced
+Angular,Frontend,"angularjs, angular framework, angular2+",Advanced
+Vue.js,Frontend,"vuejs, vue framework",Advanced
+Node.js,Backend,"nodejs, node framework, node runtime",Advanced
+Express.js,Backend,"express framework, expressjs",Intermediate
+Django,Backend,"django framework, django python",Advanced
+Flask,Backend,"flask framework, flask python",Intermediate
+Spring,Backend,"spring framework, spring boot, spring mvc",Advanced
+Ruby on Rails,Backend,"rails, ror, ruby framework",Advanced
+PHP,Backend,"php programming, php development",Intermediate
+MongoDB,Database,"mongo, mongodb database, nosql",Intermediate
+PostgreSQL,Database,"postgres, postgresql database, psql",Advanced
+MySQL,Database,"mysql database, mariadb",Intermediate
+Oracle,Database,"oracle database, oracle db, oracle sql",Advanced
+Redis,Database,"redis cache, redis database",Intermediate
+AWS,Cloud,"amazon web services, ec2, s3, lambda, aws cloud",Advanced
+Azure,Cloud,"microsoft azure, azure cloud, azure services",Advanced
+Google Cloud,Cloud,"gcp, google cloud platform, google cloud services",Advanced
+Docker,DevOps,"docker container, containerization",Advanced
+Kubernetes,DevOps,"k8s, kubernetes orchestration",Advanced
+Jenkins,DevOps,"jenkins ci, jenkins cd, jenkins pipeline",Intermediate
+Git,DevOps,"git version control, github, gitlab",Intermediate
+TensorFlow,Machine Learning,"tensorflow framework, tf, tensorflow api",Advanced
+PyTorch,Machine Learning,"pytorch framework, torch",Advanced
+Scikit-learn,Machine Learning,"sklearn, scikit-learn library",Intermediate
+NLP,Machine Learning,"natural language processing, computational linguistics",Advanced
+Computer Vision,Machine Learning,"cv, image recognition, image processing",Advanced
+Data Analysis,Data Science,"data analytics, data analysis tools",Intermediate
+Data Visualization,Data Science,"data viz, visualization tools, data charts",Intermediate
+Tableau,Data Science,"tableau visualization, tableau dashboards",Intermediate
+Power BI,Data Science,"powerbi, power bi dashboards, microsoft bi",Intermediate
+R,Data Science,"r programming, r language, r statistical",Intermediate
+MATLAB,Engineering,"matlab programming, mathworks",Intermediate
+Agile,Methodology,"agile methodology, agile development, scrum, kanban",Intermediate
+JIRA,Tools,"jira software, jira project management",Basic
+Confluence,Tools,"confluence docs, confluence wiki",Basic
+Excel,Business,"microsoft excel, excel spreadsheets, excel functions",Intermediate
+PowerPoint,Business,"microsoft powerpoint, powerpoint presentations",Basic
+Word,Business,"microsoft word, word processing",Basic
+Project Management,Business,"pm, project planning, project coordination",Intermediate
+Product Management,Business,"product development, product planning",Intermediate
+Leadership,Soft Skills,"team leadership, management, people leadership",Advanced
+Communication,Soft Skills,"interpersonal communication, verbal communication, written communication",Intermediate
+Problem Solving,Soft Skills,"analytical thinking, critical thinking, solution design",Advanced
+Teamwork,Soft Skills,"collaboration, team player, cooperative work",Intermediate
+Time Management,Soft Skills,"scheduling, prioritization, deadline management",Intermediate
+Creativity,Soft Skills,"creative thinking, innovation, ideation",Intermediate
+Adaptability,Soft Skills,"flexibility, versatility, change management",Intermediate
+React Native,Mobile,"react-native, react native development",Advanced
+Flutter,Mobile,"flutter framework, flutter dart, flutter mobile",Intermediate
+iOS Development,Mobile,"ios dev, swift, objective-c, iphone development",Advanced
+Android Development,Mobile,"android dev, android studio, android sdk",Advanced
+Kotlin,Mobile,"kotlin programming, kotlin android",Intermediate
+Swift,Mobile,"swift programming, swift ios",Advanced
+GraphQL,API,"graphql api, graphql query",Intermediate
+REST API,API,"restful api, rest architecture, restful services",Intermediate
+Microservices,Architecture,"microservice architecture, distributed systems",Advanced
+Serverless,Architecture,"serverless architecture, serverless computing, faas",Advanced
+Big Data,Data Science,"hadoop, spark, large dataset analysis",Advanced
+Blockchain,Emerging Tech,"blockchain technology, distributed ledger, smart contracts",Intermediate
+Cybersecurity,Security,"information security, cyber defense, security analysis",Advanced
+Penetration Testing,Security,"pentest, ethical hacking, security testing",Advanced
+UI Design,Design,"user interface design, interface design",Intermediate
+UX Design,Design,"user experience design, usability, user research",Intermediate
+Figma,Design,"figma design, figma prototyping",Intermediate
+Adobe XD,Design,"xd design, adobe experience design",Intermediate
+Photoshop,Design,"adobe photoshop, photo editing, image editing",Intermediate
+Illustrator,Design,"adobe illustrator, vector graphics",Intermediate
+SEO,Marketing,"search engine optimization, search optimization",Intermediate
+Content Marketing,Marketing,"content strategy, content creation, content planning",Intermediate
+Social Media Marketing,Marketing,"smm, social marketing, social media strategy",Intermediate
+Email Marketing,Marketing,"email campaigns, newsletter marketing",Intermediate
+SaaS,Business Model,"software as a service, subscription software",Intermediate
+Business Analysis,Business,"business process analysis, requirements analysis",Intermediate
+Financial Analysis,Business,"financial modeling, finance analysis",Intermediate
+Accounting,Business,"financial accounting, bookkeeping",Intermediate
+Marketing Strategy,Business,"marketing planning, strategic marketing",Intermediate
+Sales,Business,"sales strategy, business development, account management",Intermediate
+Customer Support,Business,"technical support, customer service, client relations",Basic
+Scrum Master,Methodology,"scrum certification, scrum facilitation",Advanced
+Product Owner,Methodology,"product backlog, backlog management",Advanced
+Embedded Systems,Engineering,"embedded programming, embedded software, firmware",Advanced
+IoT,Engineering,"internet of things, connected devices, iot development",Intermediate
+Robotics,Engineering,"robotics programming, robot control systems",Advanced
+Network Engineering,IT,"network administration, cisco, networking, routing",Advanced
+System Administration,IT,"sysadmin, system admin, server administration",Advanced
+Help Desk,IT,"technical support, it support, desktop support",Basic
+Cloud Architecture,Cloud,"cloud system design, multi-cloud strategy",Advanced
+Data Engineering,Data Science,"data pipelines, etl, data infrastructure",Advanced
+DevSecOps,DevOps,"devsecops practices, security integration, secure pipeline",Advanced
+Artificial Intelligence,Machine Learning,"ai, machine intelligence, intelligent systems",Advanced
+Reinforcement Learning,Machine Learning,"rl, reinforcement algorithms, reward-based learning",Advanced
+Deep Learning,Machine Learning,"neural networks, deep neural networks, dnn",Advanced
+Statistical Analysis,Data Science,"statistics, statistical methods, hypothesis testing",Advanced
+A/B Testing,Data Science,"split testing, multivariate testing, experiment design",Intermediate
+Web Development,Development,"web dev, website development, web application development",Intermediate
+Mobile Development,Development,"mobile dev, mobile application development, app development",Intermediate
+Full Stack Development,Development,"full-stack, end-to-end development",Advanced
+Frontend Development,Development,"front-end, client-side development, ui development",Intermediate
+Backend Development,Development,"back-end, server-side development, api development",Intermediate
+Game Development,Development,"game dev, game programming, unity, unreal",Advanced
+Linux,Operating Systems,"unix, linux administration, linux server",Intermediate
+Windows Server,Operating Systems,"windows server administration, active directory",Intermediate
+macOS,Operating Systems,"macos administration, apple systems",Basic
+Shell Scripting,DevOps,"bash, shell programming, command line scripting",Intermediate
+PowerShell,DevOps,"powershell scripting, windows automation",Intermediate
+CI/CD,DevOps,"continuous integration, continuous delivery, continuous deployment",Advanced
+Test Automation,QA,"automated testing, test scripts, automation framework",Intermediate
+Manual Testing,QA,"manual qa, test cases, quality assurance",Basic
+Performance Testing,QA,"load testing, stress testing, performance optimization",Intermediate
+Security Testing,QA,"security qa, vulnerability testing, security validation",Advanced
+Selenium,QA,"selenium webdriver, selenium testing",Intermediate
+Appium,QA,"appium testing, mobile test automation",Intermediate
+JUnit,QA,"junit testing, java unit tests",Intermediate
+PyTest,QA,"pytest framework, python testing",Intermediate
+Jest,QA,"jest testing, javascript tests",Intermediate
+Mocha,QA,"mocha testing, mocha js",Intermediate
+ETL,Data Engineering,"extract transform load, data pipeline",Intermediate
+Data Warehousing,Data Engineering,"data warehouse, data mart, dwh",Intermediate
+Apache Spark,Big Data,"spark processing, spark streaming, spark sql",Advanced
+Apache Kafka,Big Data,"kafka streaming, event streaming, message broker",Advanced
+Hadoop,Big Data,"hadoop ecosystem, hdfs, mapreduce",Advanced
+ElasticSearch,Big Data,"elastic stack, elasticsearch indexing, elk",Intermediate
+SOAP,API,"soap protocol, soap services, soap api",Basic
+OAuth,Security,"oauth authentication, oauth2",Intermediate
+JWT,Security,"json web tokens, jwt auth",Intermediate
+Single Sign-On,Security,"sso, federated identity, unified login",Intermediate
+SEO Optimization,Marketing,"search ranking, seo strategy, search visibility",Intermediate
+PPC,Marketing,"pay per click, google ads, paid search",Intermediate
+Accessibility,Development,"a11y, web accessibility, wcag",Intermediate
+Responsive Design,Frontend,"mobile-first, responsive layouts, adaptive design",Intermediate
+Typescript,Programming,"ts, typed javascript, typescript development",Advanced
+Go,Programming,"golang, go programming",Advanced
+Rust,Programming,"rust programming, rust lang",Advanced
+Scala,Programming,"scala programming, functional programming",Advanced
+F#,Programming,"fsharp, f sharp, functional .net",Advanced
+Perl,Programming,"perl programming, perl scripting",Intermediate
+LESS,Frontend,"less css, less preprocessing",Intermediate
+SASS,Frontend,"sass css, scss, sass preprocessing",Intermediate
+Webpack,Frontend,"webpack bundling, webpack config",Intermediate
+Babel,Frontend,"babel transpiler, babel js",Intermediate
+Redux,Frontend,"redux state, react redux, state management",Advanced
+Svelte,Frontend,"svelte framework, svelte js",Intermediate
+Ember.js,Frontend,"emberjs, ember framework",Intermediate
+.NET Core,Backend,".net core framework, dotnet core",Advanced
+ASP.NET,Backend,"asp.net framework, asp.net mvc, asp.net web api",Advanced
+Laravel,Backend,"laravel framework, laravel php",Intermediate
+FastAPI,Backend,"fastapi framework, fast api python",Intermediate
+gRPC,API,"grpc protocol, protocol buffers, grpc services",Advanced
+WebSockets,API,"websocket protocol, real-time communication",Intermediate
+RabbitMQ,Messaging,"rabbitmq broker, message queuing, amqp",Intermediate
+Apache ActiveMQ,Messaging,"activemq broker, jms",Intermediate
+Apache Cassandra,Database,"cassandra db, cassandra nosql",Advanced
+SQLite,Database,"sqlite database, embedded sql",Basic
+Microsoft SQL Server,Database,"sql server, t-sql, mssql",Advanced
+DynamoDB,Database,"aws dynamodb, dynamo database",Intermediate
+CouchDB,Database,"couchdb database, couch nosql",Intermediate
+Neo4j,Database,"neo4j graph, graph database",Intermediate
+Firebase,Cloud,"firebase platform, firebase services, google firebase",Intermediate
+Heroku,Cloud,"heroku platform, heroku deployment",Intermediate
+DigitalOcean,Cloud,"digitalocean cloud, do droplets",Intermediate
