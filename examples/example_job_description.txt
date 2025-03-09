@@ -1,0 +1,47 @@
+Software Engineer (Machine Learning)
+
+Company: TechInnovate AI
+Location: San Francisco, CA (Remote-friendly)
+
+About Us:
+TechInnovate AI is a leading AI research and development company focused on creating innovative solutions using cutting-edge machine learning techniques. We're a team of passionate technologists working to solve complex problems across various industries.
+
+Job Description:
+We are seeking an experienced Software Engineer specializing in Machine Learning to join our growing team. The ideal candidate will develop, optimize, and deploy machine learning models while maintaining high code quality and performance standards.
+
+Responsibilities:
+• Design, implement, and deploy machine learning models to production environments
+• Collaborate with data scientists to transform prototypes into scalable, production-ready code
+• Optimize algorithms for maximum speed and scalability
+• Implement data processing and feature engineering pipelines
+• Ensure code quality through testing, code reviews, and adherence to best practices
+• Work with cross-functional teams to understand requirements and deliver solutions
+• Stay up-to-date with the latest ML research and technologies
+
+Required Qualifications:
+• Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)
+• 3+ years of experience in software engineering with a focus on machine learning applications
+• Strong programming skills in Python; experience with TensorFlow or PyTorch
+• Experience with NLP, computer vision, or recommendation systems
+• Proficiency in data structures, algorithms, and software design principles
+• Experience with cloud platforms (AWS, GCP, or Azure)
+• Knowledge of distributed computing and big data technologies (Spark, Hadoop)
+• Strong communication and collaboration skills
+
+Preferred Qualifications:
+• Experience with deployment and operationalization of ML models
+• Knowledge of Docker, Kubernetes, and CI/CD pipelines
+• Experience with MLOps tools and practices
+• Contributions to open-source projects or research publications
+• Experience with REST APIs and microservices architecture
+
+Benefits:
+• Competitive salary and equity package
+• Comprehensive health, dental, and vision insurance
+• Flexible work hours and remote work options
+• Professional development budget
+• 401(k) matching
+• Generous paid time off
+• Modern, collaborative work environment
+
+TechInnovate AI is an equal opportunity employer committed to diversity in the workplace. We encourage candidates from all backgrounds to apply.

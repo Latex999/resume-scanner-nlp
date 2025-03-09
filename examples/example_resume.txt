@@ -1,0 +1,70 @@
+JOHN SMITH
+jsmith@email.com | (123) 456-7890 | linkedin.com/in/johnsmith | github.com/johnsmith
+San Francisco, CA
+
+SUMMARY
+Experienced Software Engineer with 4+ years specializing in machine learning applications and scalable systems. Proficient in Python, TensorFlow, and cloud technologies with a strong background in NLP and computer vision. Passionate about delivering high-quality ML solutions that solve real-world problems.
+
+EXPERIENCE
+
+ML ENGINEER
+DataTech Solutions | San Francisco, CA | January 2021 - Present
+• Developed and deployed NLP models for text classification and sentiment analysis, improving customer support ticket routing accuracy by 35%
+• Implemented a distributed training pipeline using TensorFlow and Kubernetes, reducing model training time by 60%
+• Created a real-time recommendation system serving 500K daily users with 99.9% uptime
+• Optimized inference latency by 45% through model quantization and TensorRT integration
+• Mentored junior engineers and contributed to team best practices for ML deployment
+
+SOFTWARE ENGINEER
+TechCorp Inc. | Oakland, CA | August 2019 - December 2020
+• Built data processing pipelines using Python, Spark, and AWS services processing 50TB+ of data
+• Implemented RESTful APIs and microservices for internal ML platforms using Flask and Docker
+• Collaborated with data scientists to operationalize research models for production
+• Reduced infrastructure costs by 30% through cloud resource optimization
+
+JUNIOR DEVELOPER
+Startup Innovations | San Jose, CA | May 2018 - July 2019
+• Developed web applications using React and Node.js for data visualization dashboards
+• Implemented CI/CD pipelines using Jenkins and GitHub Actions
+• Assisted in building computer vision models for object detection in retail environments
+
+EDUCATION
+
+M.S. COMPUTER SCIENCE, MACHINE LEARNING FOCUS
+Stanford University | 2016 - 2018
+Relevant Coursework: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Distributed Systems
+
+B.S. COMPUTER SCIENCE
+University of California, Berkeley | 2012 - 2016
+GPA: 3.8/4.0
+
+SKILLS
+
+Programming Languages: Python, JavaScript, Java, C++, SQL
+ML/AI: TensorFlow, PyTorch, Scikit-learn, Keras, NLTK, spaCy, OpenCV
+Cloud & Infrastructure: AWS (EC2, S3, Lambda, SageMaker), GCP, Docker, Kubernetes
+Big Data: Spark, Hadoop, Kafka, Airflow
+Web Development: Flask, FastAPI, React, Node.js
+Database: PostgreSQL, MongoDB, Redis
+Tools: Git, GitHub Actions, Jenkins, Jira, Confluence
+
+PROJECTS
+
+DEEP LEARNING FOR MEDICAL IMAGING
+• Developed a convolutional neural network for pneumonia detection from chest X-rays with 92% accuracy
+• Implemented model interpretability techniques to provide visual explanations for diagnoses
+• GitHub: github.com/johnsmith/medical-imaging
+
+NATURAL LANGUAGE QUERY ENGINE
+• Created a semantic search engine using transformer models and vector databases
+• Built a custom ranking algorithm improving search relevance by 25% over baseline
+• Used by 1000+ users in an open-source community project
+
+CERTIFICATIONS
+• AWS Certified Machine Learning - Specialty
+• Professional Machine Learning Engineer - Google Cloud
+• Deep Learning Specialization - Coursera/Stanford
+
+PUBLICATIONS
+• Smith, J., et al. "Efficient Training Strategies for Large Language Models" - ML Conference 2022
+• Contributing author to "Practical Machine Learning at Scale" technical blog series
