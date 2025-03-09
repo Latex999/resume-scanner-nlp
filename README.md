@@ -123,9 +123,6 @@ The system's matching accuracy has been evaluated using:
 - Time-to-hire reduction (42% average improvement)
 - Candidate quality improvement (37% increase in successful placements)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## 📜 License
 
@@ -133,4 +130,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For questions or support, please open an issue or contact the repository owner.
+For questions or support, please open an issue or contact the me.
